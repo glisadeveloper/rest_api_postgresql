@@ -26,6 +26,7 @@
 		● Can complete the registration step
 		● Can login
 		● Can update their name
+		
 	* Administrator
 		● Can do everything a User can do
 		● Can create a new account (Users and Administrators)
